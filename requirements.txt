@@ -1,0 +1,7 @@
+sqlmodel
+psycopg[binary,pool]
+fastapi[standard]
+uvicorn[standard]
+gunicorn 
+orjson
+python-dotenv
